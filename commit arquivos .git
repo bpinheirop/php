@@ -4,7 +4,7 @@ git config --global user.email ""
 
 git init
 
-git remote add "nome da pasta"
+git remote add origin "nome da pasta"
 
 git pull origin master
 
