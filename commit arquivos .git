@@ -1,0 +1,15 @@
+git config --global user.name ""
+
+git config --global user.email ""
+
+git init
+
+git remote add "nome da pasta"
+
+git pull origin master
+
+git add . -> adiciona todos os arquivos
+
+git add -> "nome do arquivo"
+
+git commit -m  -> "texto no commit"
