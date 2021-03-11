@@ -13,3 +13,5 @@ git add . -> adiciona todos os arquivos
 git add -> "nome do arquivo"
 
 git commit -m  -> "texto no commit"
+
+git push origin master
